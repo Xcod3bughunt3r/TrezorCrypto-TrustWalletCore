@@ -34,7 +34,7 @@
     "long": "^4.0.0",
     "node-addon-api": "^1.6.3",
     "node-gyp": "github:brave/node-gyp",
-    "protobufjs": "^6.8.8"
+    "protobufjs": "^6.10.3"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
